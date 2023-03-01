@@ -1,0 +1,10 @@
+{
+	"APIVersion": "0.0.1.1",
+	"ModVersion": "0.0.1",
+	"ModName": "TestMod",
+	"ModAuthor": "Derplex",
+	"ModDescription": "Test mod, duh",
+	"EntryPoint": "update.lua",
+	"Catalog": "Catalog/catalog.json",
+	"ModType": "Lua"
+}
